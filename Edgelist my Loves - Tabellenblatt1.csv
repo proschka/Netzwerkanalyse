@@ -1,0 +1,9 @@
+from,to ,weight,frequence,history
+JP,LH,3,3,1
+JP,LB,2,2,1
+JP,JK,2,2,1
+JP,PP,3,1,3
+LH,LB,2,2,1
+LH,JK,1,1,1
+LH,PP,1,1,1
+LB,JK,3,3,1
